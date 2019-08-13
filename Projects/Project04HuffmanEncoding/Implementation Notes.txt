@@ -1,0 +1,21 @@
++ HuffmanEncoding.py
+
+- buildDict method: 
+buildDict adds a huffman encoding entry into the 'huffmandict'
+encoding dictionary / table. It pairs a character (key) and the
+associated huffman encoded 'bit' string (value) (ex. '1001') 
+
+- visitAllSubnodes method: 
+visitAllSubnodes traverses through the tree in inorder fashion
+and uses the buildDict method to add each leaf in the huffman
+encoding dictionary / table called 'huffmandict' in the program
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
++ PriorityQueue.py
+
+- delMin method: 
+The delMin method has been modified to return the tuple from 
+the heapArray instead of just the value of a tuple in the form
+(key, value). This is used in the HuffmanEncoding algorithm for 
+the purpose of determining the frequency, as the frequency of 
+a character is represented by the key in the tuple.

@@ -1,0 +1,36 @@
+# Ferdinand Mudjialim
+# Lab 07
+True
+0
+The unordered list contents: 
+False
+1
+The unordered list contents:  136
+False
+2
+The unordered list contents:  120 136
+item removed is; 136
+False
+1
+The unordered list contents:  120
+item removed is; 120
+True
+0
+The unordered list contents: 
+False
+3
+The unordered list contents:  105 135 101
+item removed is; 101
+False
+2
+The unordered list contents:  105 135
+item removed is; 135
+False
+1
+The unordered list contents:  105
+item removed is; 105
+True
+0
+The unordered list contents: 
+
+Process finished with exit code 0

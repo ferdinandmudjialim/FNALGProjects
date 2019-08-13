@@ -1,0 +1,19 @@
+# Ferdinand Mudjialim
+# Lab 05: ParenMatch
+
+A*B+C*D
+True
+(A+B)*(C-(D-E))*(F+G)
+True
+((A+{B+C}-[D-E])+[F]-[G]
+False
+(A+B)*(C+D)
+True
+A/B-C+D*E-A*C
+True
+(((A/B)-C)+(D*E))-A*C)
+False
+A/(B-C+D))*(E-A)*C
+False
+
+Process finished with exit code 0

@@ -1,0 +1,8 @@
+# Ferdinand Mudjialim
+# Project 03 part 1: recursive string reverse and palindrome checker
+snap&stop
+racecar
+gohangasalamiimalasagnahog
+False
+True
+True

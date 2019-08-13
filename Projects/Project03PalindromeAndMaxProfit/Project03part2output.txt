@@ -1,0 +1,6 @@
+# Ferdinand Mudjialim
+# Project 03 part 2
+Max profit with weights [2,3,4,5,9], values [3,4,8,8,10], and weight limit 20
+29
+Max profit with weights [1,2,5,6,7], values [1,6,18,22,28], and weight limit 11
+40

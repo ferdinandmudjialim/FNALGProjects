@@ -1,0 +1,6 @@
+# Ferdinand Mudjialim
+# Lab 12 Output
+a fast runner need never be afraid of the dark
+['a', ' ', 'f', 'a', 's', 't', ' ', 'r', 'u', 'n', 'n', 'e', 'r', ' ', 'n', 'e', 'e', 'd', ' ', 'n', 'e', 'v', 'e', 'r', ' ', 'b', 'e', ' ', 'a', 'f', 'r', 'a', 'i', 'd', ' ', 'o', 'f', ' ', 't', 'h', 'e', ' ', 'd', 'a', 'r', 'k']
+{'a': 5, ' ': 9, 'f': 3, 's': 1, 't': 2, 'r': 5, 'u': 1, 'n': 4, 'e': 7, 'd': 3, 'v': 1, 'b': 1, 'i': 1, 'o': 1, 'h': 1, 'k': 1}
+[Finished in 0.1s]

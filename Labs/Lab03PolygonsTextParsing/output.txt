@@ -1,0 +1,26 @@
+# Name: Ferdinand Mudjialim
+# Lab 3
+# Description: reads input from a text file and echo checks (prints) data for
+# polygons with a variable number of vertices
+Reading vertices for a polygon with 5 vertices...
+Vertex 0 has coordinates at (1.70, 4.90)
+Vertex 1 has coordinates at (6.10, 6.20)
+Vertex 2 has coordinates at (7.00, 2.80)
+Vertex 3 has coordinates at (4.80, 0.10)
+Vertex 4 has coordinates at (1.50, 1.40)
+Reading vertices for a rectangle with 4 vertices...
+Vertex 0 has coordinates at (7.00, 5.00)
+Vertex 1 has coordinates at (1.00, 5.00)
+Vertex 2 has coordinates at (1.00, 3.00)
+Vertex 3 has coordinates at (7.00, 3.00)
+Reading vertices for a polygon with 4 vertices...
+Vertex 0 has coordinates at (4.10, 5.40)
+Vertex 1 has coordinates at (6.90, 2.50)
+Vertex 2 has coordinates at (2.90, 0.80)
+Vertex 3 has coordinates at (0.90, 2.50)
+Reading vertices for a polygon with 3 vertices...
+Vertex 0 has coordinates at (1.20, 4.70)
+Vertex 1 has coordinates at (6.50, 4.20)
+Vertex 2 has coordinates at (4.00, 1.70)
+
+Process finished with exit code 0

@@ -1,0 +1,47 @@
+# Name: Ferdinand Mudjialim
+# Project 1
+# Description: reads input from a text file and constructs either a polygon
+# or rectangle object. Then, each object returns its vertices, perimeter,
+# and area.
+ 1.70  4.90
+ 6.10  6.20
+ 7.00  2.80
+ 4.80  0.10
+ 1.50  1.40
+
+Using Polygon's perimeter routine
+Perimeter: 18.64
+Using Polygon's area routine
+Area: 23.43
+--------------------------
+6.0 6.0
+ 1.00  5.00
+ 7.00  5.00
+ 1.00  3.00
+ 7.00  3.00
+
+Using Rectangle's perimeter routine
+Perimeter: 24.00
+Area: 36.00
+--------------------------
+ 4.10  5.40
+ 6.90  2.50
+ 2.90  0.80
+ 0.90  2.50
+
+Using Polygon's perimeter routine
+Perimeter: 15.32
+Using Polygon's area routine
+Area: 13.80
+--------------------------
+ 1.20  4.70
+ 6.50  4.20
+ 4.00  1.70
+
+Using Polygon's perimeter routine
+Perimeter: 12.96
+Using Polygon's area routine
+Area: 7.25
+--------------------------
+
+Process finished with exit code 0
